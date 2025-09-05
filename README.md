@@ -4,7 +4,8 @@
     </a>
 </h2>
 <h2 align="center">
-   NETWORK PROGRAMMING
+   Chat nhóm bằng RMI
+
 </h2>
 <div align="center">
     <p align="center">
