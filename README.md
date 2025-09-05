@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-   Chat nhóm bằng RMI
+  📌 Chat nhóm bằng RMI
 
 </h2>
 <div align="center">
@@ -22,6 +22,14 @@
 
 ## 📖 1. Giới thiệu hệ thống 
 Ứng dụng Chat nhóm bằng RMI được xây dựng nhằm hỗ trợ người dùng trao đổi thông tin theo thời gian thực qua mô hình Client – Server. Người dùng có thể tạo kết nối tới server và tham gia phòng chat để nhắn tin, gửi thông báo, và theo dõi các thành viên khác đang online.
+
+🎯 Các chức năng chính:
+        ● Đăng nhập / đặt tên người dùng khi tham gia chat.
+        ● Gửi và nhận tin nhắn theo thời gian thực.
+        ● Hiển thị danh sách người dùng đang online.
+        ● Hỗ trợ chat nhóm (mọi tin nhắn đều được broadcast đến tất cả client).
+        ● Quản lý kết nối: khi người dùng thoát thì server cập nhật danh sách.
+        ● Có thể phát triển thêm chức năng: chat riêng (private message), gửi file.
 
 ## 🔧 2. Ngôn ngữ lập trình sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
