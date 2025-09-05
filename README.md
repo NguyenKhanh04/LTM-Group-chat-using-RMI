@@ -20,8 +20,8 @@
 
 </div>
 
-## 📖 1. Giới thiệu
-Học phần trang bị cho người học những kiến thức nền tảng của lập trình mạng và các kỹ năng cần thiết để thiết kế và cài đặt các ứng dụng mạng và các chuẩn ở mức ứng dụng dựa trên mô hình Client/Server, có sử dụng các giao tiếp chương trình dựa trên Sockets. Kết thúc học phần, sinh viên có thể viết các chương trình ứng dụng mạng với giao thức tầng ứng dụng tự thiết kế.
+## 📖 1. Giới thiệu hệ thống 
+Ứng dụng Chat nhóm bằng RMI được xây dựng nhằm hỗ trợ người dùng trao đổi thông tin theo thời gian thực qua mô hình Client – Server. Người dùng có thể tạo kết nối tới server và tham gia phòng chat để nhắn tin, gửi thông báo, và theo dõi các thành viên khác đang online.
 
 ## 🔧 2. Ngôn ngữ lập trình sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
