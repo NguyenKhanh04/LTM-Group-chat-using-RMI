@@ -31,7 +31,7 @@
         ● Quản lý kết nối: khi người dùng thoát thì server cập nhật danh sách.<br>
         ● Có thể phát triển thêm chức năng: chat riêng (private message), gửi file.<br>
 
-## 🔧 2. Ngôn ngữ lập trình sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+## 🔧 2. Công nghệ sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
 ## 🚀 3. Các project đã thực hiện
 
