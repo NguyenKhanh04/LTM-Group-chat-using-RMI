@@ -76,6 +76,6 @@
 
 📌 Tác giả: Nguyễn Ngọc Khánh, Lớp CNTT 16-03, trường Đại Học Đại Nam
 
-© perform by NgocKhanh, Faculty of Information Technology, DaiNam University. All rights reserved.
+© 2025 by NgocKhanh, Faculty of Information Technology, DaiNam University. All rights reserved.
 
 ---
