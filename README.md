@@ -39,10 +39,10 @@
 ## 🖼️ 3.  Hình ảnh các chức năng chính
 
 ### 🔹 Giao diện client khi tham gia chat
-![Client UI](NguyenKhanh04/LTM-Group-chat-using-RMI/docs/projects/K16/image copy.png)
+NguyenKhanh04/LTM-Group-chat-using-RMI/docs/projects/K16/image copy.png
 
 ### 🔹 Chat nhóm và danh sách người dùng online
-![Chat UI](NguyenKhanh04/LTM-Group-chat-using-RMI/docs/projects/K16/image.png)
+NguyenKhanh04/LTM-Group-chat-using-RMI/docs/projects/K16/image.png
 
 
 ## 📝 4. License
