@@ -76,6 +76,6 @@
 
 📌 Tác giả: Nguyễn Ngọc Khánh, Lớp CNTT 16-03, trường Đại Học Đại Nam
 
-© 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
+© perform by NgocKhanh, Faculty of Information Technology, DaiNam University. All rights reserved.
 
 ---
