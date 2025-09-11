@@ -55,29 +55,29 @@
   ```bash
   git clone https://github.com/ten-repo-cua-ban/LTM-Group-chat-using-RMI.git
 ### Bước 2: Khởi động Server
-Mở project trong Eclipse/NetBeans.
+- Mở project trong Eclipse/NetBeans.
 
-Chạy file ServerDriver.java để khởi động server.
+- Chạy file ServerDriver.java để khởi động server.
 
-Nếu chạy thành công sẽ hiển thị thông báo server đã sẵn sàng lắng nghe client.
+- Nếu chạy thành công sẽ hiển thị thông báo server đã sẵn sàng lắng nghe client.
 
 ### Bước 3: Khởi động Client
-Chạy file ClientDriver.java (có thể mở nhiều cửa sổ client).
+- Chạy file ClientDriver.java (có thể mở nhiều cửa sổ client).
 
-Nhập tên người dùng khi chương trình yêu cầu.
+- Nhập tên người dùng khi chương trình yêu cầu.
 
-Kết nối tới server theo địa chỉ:
+- Kết nối tới server theo địa chỉ:
 
 
-rmi://localhost/RMIChatServer
+- rmi://localhost/RMIChatServer
 ### Bước 4: Bắt đầu chat nhóm 🎉
-Nhập tin nhắn vào ô chat và nhấn Enter hoặc Send để gửi.
+- Nhập tin nhắn vào ô chat và nhấn Enter hoặc Send để gửi.
 
-Tin nhắn sẽ được broadcast đến tất cả các client đang tham gia.
+- Tin nhắn sẽ được broadcast đến tất cả các client đang tham gia.
 
-Danh sách người dùng sẽ tự động cập nhật khi có người tham gia hoặc thoát.
+- Danh sách người dùng sẽ tự động cập nhật khi có người tham gia hoặc thoát.
 
-📌 Tác giả: Nhóm sinh viên Khoa Công nghệ Thông tin – Đại học Đại Nam
+📌 Tác giả: Nguyễn Ngọc Khánh
 
 © 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
 
