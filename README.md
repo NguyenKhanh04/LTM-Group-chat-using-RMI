@@ -39,10 +39,10 @@
 ## 🖼️ 3.  Hình ảnh các chức năng chính
 
 ### 🔹 Giao diện client khi tham gia chat
-![Client UI](images/client-ui.png)
+![Client UI](docs/projects/K16/image.png)
 
 ### 🔹 Chat nhóm và danh sách người dùng online
-![Chat UI](images/chat-ui.png)
+![Chat UI](docs/projects/K16/image%20copy.png)
 
 
 
