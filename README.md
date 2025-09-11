@@ -24,16 +24,25 @@
 Ứng dụng Chat nhóm bằng RMI được xây dựng nhằm hỗ trợ người dùng trao đổi thông tin theo thời gian thực qua mô hình Client – Server. Người dùng có thể tạo kết nối tới server và tham gia phòng chat để nhắn tin, gửi thông báo, và theo dõi các thành viên khác đang online.
 
 🎯 Các chức năng chính:<br>
-        ● Đăng nhập / đặt tên người dùng khi tham gia chat.<br>
         ● Gửi và nhận tin nhắn theo thời gian thực.<br>
-        ● Hiển thị danh sách người dùng đang online.<br>
+        ● Hiển thị danh sách người dùng.<br>
         ● Hỗ trợ chat nhóm (mọi tin nhắn đều được broadcast đến tất cả client).<br>
-        ● Quản lý kết nối: khi người dùng thoát thì server cập nhật danh sách.<br>
-        ● Có thể phát triển thêm chức năng: chat riêng (private message), gửi file.<br>
+
+        
 
 ## 🔧 2. Công nghệ sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+- **Java RMI (Remote Method Invocation)** – giao tiếp Client - Server.  
+- **Java Swing** – xây dựng giao diện client.  
+- **Eclipse IDE / NetBeans IDE** – phát triển và chạy chương trình.  
 
-## 🚀 3. Các project đã thực hiện
+---
+## 3. 🖼️ Hình ảnh các chức năng chính
+
+### 🔹 Giao diện client khi tham gia chat
+![Client UI](images/client-ui.png)
+
+### 🔹 Chat nhóm và danh sách người dùng online
+![Chat UI](images/chat-ui.png)
 
 ### [Khoá 16](./docs/projects/K16/README.md)
 
