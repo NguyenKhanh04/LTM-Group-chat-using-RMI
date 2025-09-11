@@ -74,9 +74,8 @@
 
 - Danh sách người dùng sẽ tự động cập nhật khi có người tham gia hoặc thoát.
 
-📌 Tác giả: Nguyễn Ngọc Khánh, Lớp CNTT 16-03, trường Đại Học Đại Nam
+✍️ Author: © 2025 **NgocKhanh**, Faculty of Information Technology – DaiNam University. All rights reserved.
 
-📌 © 2025 **NgocKhanh**, Faculty of Information Technology – DaiNam University. All rights reserved.
 
 
 ---
