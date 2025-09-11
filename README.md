@@ -24,9 +24,9 @@
 Ứng dụng Chat nhóm bằng RMI được xây dựng nhằm hỗ trợ người dùng trao đổi thông tin theo thời gian thực qua mô hình Client – Server. Người dùng có thể tạo kết nối tới server và tham gia phòng chat để nhắn tin, gửi thông báo, và theo dõi các thành viên khác đang online.
 
 🎯 Các chức năng chính:<br>
-        ● Gửi và nhận tin nhắn theo thời gian thực.<br>
-        ● Hiển thị danh sách người dùng.<br>
-        ● Hỗ trợ chat nhóm (mọi tin nhắn đều được broadcast đến tất cả client).<br>
+        >● Gửi và nhận tin nhắn theo thời gian thực.<br>
+        >● Hiển thị danh sách người dùng.<br>
+        >● Hỗ trợ chat nhóm (mọi tin nhắn đều được broadcast đến tất cả client).<br>
 
         
 
