@@ -66,10 +66,7 @@
 
 - Nhập tên người dùng khi chương trình yêu cầu.
 
-- Kết nối tới server theo địa chỉ:
-
-
-- rmi://localhost/RMIChatServer
+- Kết nối tới server theo địa chỉ: "rmi://localhost/RMIChatServer"
 ### Bước 4: Bắt đầu chat nhóm 🎉
 - Nhập tin nhắn vào ô chat và nhấn Enter hoặc Send để gửi.
 
