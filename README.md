@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-  📌 Chat nhóm bằng RMI
+  📌 CHAT NHÓM BẰNG RMI 
 
 </h2>
 <div align="center">
