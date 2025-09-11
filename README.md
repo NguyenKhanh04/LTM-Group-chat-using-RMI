@@ -36,7 +36,7 @@
 - **Eclipse IDE / NetBeans IDE** – phát triển và chạy chương trình.  
 
 ---
-## 3. 🖼️ Hình ảnh các chức năng chính
+## 🖼️ 3.  Hình ảnh các chức năng chính
 
 ### 🔹 Giao diện client khi tham gia chat
 ![Client UI](images/client-ui.png)
