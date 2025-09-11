@@ -74,7 +74,7 @@
 
 - Danh sách người dùng sẽ tự động cập nhật khi có người tham gia hoặc thoát.
 
-📌 Tác giả: Nguyễn Ngọc Khánh
+📌 Tác giả: Nguyễn Ngọc Khánh, Lớp CNTT 16-03, trường Đại Học Đại Nam
 
 © 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
 
