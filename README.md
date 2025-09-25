@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-  📌 CHAT NHÓM BẰNG RMI 
+  📌 CHAT NHÓM SỬ DỤNG PHƯƠNG THỨC RMI 
 
 </h2>
 <div align="center">
@@ -53,7 +53,7 @@
 - Cài đặt **Eclipse IDE** hoặc **NetBeans IDE**.  
 - Clone project từ GitHub về máy:  
   ```bash
-  git clone https://github.com/ten-repo-cua-ban/LTM-Group-chat-using-RMI.git
+  https://github.com/NguyenKhanh04/LTM-Group-chat-using-RMI.git
 ### Bước 2: Khởi động Server
 - Mở project trong Eclipse/NetBeans.
 
@@ -74,8 +74,8 @@
 
 - Danh sách người dùng sẽ tự động cập nhật khi có người tham gia hoặc thoát.
 
-✍️ Author: © 2025 **NgocKhanh**, Faculty of Information Technology – DaiNam University. All rights reserved.
+
+## 📞 5. Liên hệ <br>
+ 📌 © 2025 **Nguyễn Ngọc Khánh, Lớp: CNTT 16-03**,<br> Faculty of Information Technology – DaiNam University. All rights reserved.<br>
 
 
-
----
